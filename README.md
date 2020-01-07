@@ -114,7 +114,7 @@ each reviewer.
 ## Next Steps
 - Forming a steering committee
 - Finalizing details of journal
-- Getting the journal registered? 
+- Getting the journal registered? [Get an ISSN](https://www.loc.gov/issn/ISSN%20app%20form%20916%20(2008-12).pdf)?
 
 ## Discussion
 
