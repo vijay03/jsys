@@ -2,6 +2,14 @@ Journal of Systems Research (JSYS)
 ==================================
 There is a need for an open-access, free-for-authors, free-for-readers, high-quality journal for systems research. This repository contains a proposal for such a journal.
 
+## Mission and values
+
+JSYS seeks to promote high-quality, open-access research on computer
+systems. JSYS will never charge readers or authors. All research
+published in JSYS will be available as open-access from the day it is
+accepted for publication. JSYS will not impose page limits on accepted
+publications.
+
 ## Why do we need a new journal in systems?
 
 1. Top venues like SOSP/OSDI and Eurosys don't do revisions: good work that is not perfect gets rejected and bounced around (wastes both author and reviewer cycles).
@@ -78,6 +86,34 @@ Similar journals such as the Journal of Machine Learning Research
 (JMLR) have been open access for over 20 years without charging
 readers or authors. The publisher [shares](https://blogs.harvard.edu/pamphlet/2012/03/06/an-efficient-journal/) the biggest expense is
 filing taxes. 
+
+## Potential Problems
+
+A number of problems may arise in this model. [Dave
+Levin](https://www.cs.umd.edu/~dml/) provided a list of thoughtful
+questions (which we originally came up in the context of reviewing in
+security):
+
+1. Will there a lack of expert reviewers in this model? Conferences
+   attract expert reviewers; at least initially, it may be hard to
+   find such reviewers for this journal.
+2. Will reviewers ask for a lot of additional experiments for
+   publication? This has the potential to move the paper away from the
+   vision of the authors, and add (perhaps un-necessary) extra work
+   for the authors.
+3. Will the lack of in-person PC meeting lead to large variability in
+   quality of accepted papers? 
+4. Will this model encourage lots of low-quality submissions? 
+
+We believe these questions can be answered by collecting data during
+the review process. For example, we will ask authors to rate
+reviews. We will also collect the self-reported expertise metric from
+each reviewer. 
+
+## Next Steps
+- Forming a steering committee
+- Finalizing details of journal
+- Getting the journal registered? 
 
 Similar open-access journals
 =============================
