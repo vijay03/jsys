@@ -28,7 +28,8 @@ To ensure the open-access mission of the journal is carried out
 properly, it must be governed by an independent board. Existing
 journals such as Transactions on Computing Systems are all governed by
 organizations such as ACM, which have a different mission and set of
-values.
+values. A number of conferences, such as Neurips and RSS, are governed
+by their own independent foundations.
 
 ## How would the journal work? 
 
