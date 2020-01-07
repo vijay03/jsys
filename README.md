@@ -116,6 +116,13 @@ each reviewer.
 - Finalizing details of journal
 - Getting the journal registered? 
 
+## Discussion
+
+We've setup the #jsys channel in the Systems slack to discuss this
+idea. Please join the systems slack
+[here](http://bit.ly/join-systems-slack-2019), and look for the #jsys
+channel. 
+
 Similar open-access journals
 =============================
 - [Journal of Machine Learning Research](http://www.jmlr.org/)
